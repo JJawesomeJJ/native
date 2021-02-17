@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Titang直播</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_native_view">native_view</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_index">index</string>
+    <string name="title_activity_play_native">play_native</string>
+    <string name="title_activity_native_start">native_start</string>
+    <string name="title_activity_start_native">start_native</string>
+    <string name="title_activity_native_push">native_push</string>
+</resources>
